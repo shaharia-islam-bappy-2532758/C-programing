@@ -1,0 +1,6 @@
+git init (one time for eacth project to start git)
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shaharia-islam-bappy-2532758/C-programing.git
+git push -u origin main 
